@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "files.storage.path",
+      "type": "java.lang.String",
+      "description": "Description for files.storage.path."
+  }
+] }
